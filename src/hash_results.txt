@@ -1,0 +1,31 @@
+MessageDigest outputs
+
+MessageDigest using MD5
+3b459f3333cda51a83379eae4d2ac794
+MessageDigest using SHA-256
+2f72ec124c8cdcbe5430563e197e0ce0e3e3e75d675a634b1db78d3a3f31d226
+MessageDigest using SHA-512
+c9e33459294c2c56ea078d5583faed1c9e798535e81d26063ffb4883f14b397566cf7e74df78772171082e7854ae77e726d6f3aa6f9633e337bacecc3f61db83
+
+SecureRandom outputs
+
+SecureRandom SHA1PRNG
+96cb4cedc6d78a4666351950dd1d06af55611874210658966039dee8335b88fd
+SecureRandom DRBG
+18e86d25c81ba4060b7358d4c740f9de4b17b6b6158a4dfb69f52bc16160b197
+SecureRandom Windows-PRNG
+29b737b6fd2a85765b976b057b8b044879ce1d9d2aa8173132b5b8f6db6efca6
+
+Players with normal equals and hashCode
+
+-87086231
+703969582
+1946460745
+2051414776
+-97401618
+
+Players with broken equals and hashCode
+
+511563
+510602
+511562
